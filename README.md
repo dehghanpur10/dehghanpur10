@@ -3,22 +3,43 @@
   <img alt="Mohammad Dehghanpour, Software Engineer" src="assets/banner-light.svg" width="100%">
 </picture>
 
-Software engineer with 6+ years of experience building backend services, web
-applications and the cloud infrastructure they run on. I work mostly in Go,
-Python and TypeScript on AWS, and I care about software that is correct,
-well tested and easy to change.
+Full-stack software engineer with 6+ years of experience building cloud-native,
+event-driven systems on AWS. I like the hard parts: performance bottlenecks,
+high-volume data pipelines and complex optimisation workflows, turned into
+reliable, well-tested production services. I work across Go, Python, Node.js
+and C# on the backend and React, TypeScript and Next.js on the frontend, with a
+focus on clean architecture, automated testing, infrastructure as code and
+secure APIs.
 
-### What I do
+### Highlights
 
-- **Backend and APIs.** REST services in Go and Python on PostgreSQL, MySQL,
-  MongoDB and DynamoDB, with OpenAPI contracts and thorough tests.
-- **Cloud and DevOps.** AWS (ECS Fargate, Lambda, API Gateway, RDS, DynamoDB,
-  CloudFront, S3), infrastructure as code with Terraform, Docker, and CI/CD
-  pipelines in GitHub Actions.
-- **Frontend.** React and TypeScript, with Vue, Nuxt and Angular in earlier
-  projects.
-- **Machine learning.** Computer vision models with TensorFlow, Keras and
-  OpenCV.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>~70% faster image processing</b><br>
+      Found the bottlenecks in a large-scale image processing engine and rebuilt
+      its hot paths with concurrency, better algorithms and low-level bit
+      manipulation.
+    </td>
+    <td width="50%" valign="top">
+      <b>Research to production</b><br>
+      Took forecasting and optimisation algorithms from data scientists into
+      production services for workforce scheduling and energy trading.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Reliable data at scale</b><br>
+      Designed pipelines that collect, validate and transform high-volume energy
+      market, battery telemetry and workforce data for downstream models.
+    </td>
+    <td width="50%" valign="top">
+      <b>Engineering foundations</b><br>
+      Built unit and integration testing, CI/CD pipelines and Terraform-managed
+      infrastructure that made releases repeatable and safer.
+    </td>
+  </tr>
+</table>
 
 ### Tech stack
 
@@ -27,8 +48,8 @@ well tested and easy to change.
     <td><b>Languages</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js&theme=dark">
-        <img alt="Go, Python, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go,py,ts,js&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,cs&theme=dark">
+        <img alt="Go, Python, TypeScript, JavaScript, C#" src="https://skillicons.dev/icons?i=go,py,ts,js,cs&theme=light">
       </picture>
     </td>
   </tr>
@@ -36,8 +57,8 @@ well tested and easy to change.
     <td><b>Backend and data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,dynamodb&theme=dark">
-        <img alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB" src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,dynamodb&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,django,express,postgres,dynamodb,mongodb,mysql&theme=dark">
+        <img alt="Node.js, Django, Express, PostgreSQL, DynamoDB, MongoDB, MySQL" src="https://skillicons.dev/icons?i=nodejs,django,express,postgres,dynamodb,mongodb,mysql&theme=light">
       </picture>
     </td>
   </tr>
@@ -45,8 +66,8 @@ well tested and easy to change.
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nuxtjs,angular,tailwind,vite&theme=dark">
-        <img alt="React, Vue, Nuxt, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=react,vue,nuxtjs,angular,tailwind,vite&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=dark">
+        <img alt="React, Next.js, Vue, Angular, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=light">
       </picture>
     </td>
   </tr>
@@ -54,8 +75,8 @@ well tested and easy to change.
     <td><b>Cloud and DevOps</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,firebase&theme=dark">
-        <img alt="AWS, Terraform, Docker, GitHub Actions, nginx, Linux, Firebase" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,firebase&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,bitbucket,linux&theme=dark">
+        <img alt="AWS, Terraform, Docker, GitHub Actions, Bitbucket Pipelines, Linux" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,bitbucket,linux&theme=light">
       </picture>
     </td>
   </tr>
@@ -70,33 +91,128 @@ well tested and easy to change.
   </tr>
 </table>
 
-### Featured project
+**Also:** Gin, Serverless Framework, AWS Lambda, API Gateway, SQS, SES, S3,
+Cognito, Auth0, role-based access control, OpenAPI/Swagger, microservices,
+event-driven architecture, time-series processing, ETL pipelines, OCR, Retool,
+Prismatic, Bubble.io, Autodesk Revit API.
 
-<a href="https://github.com/dehghanpur10/fairshare">
-  <img src="https://raw.githubusercontent.com/dehghanpur10/fairshare/main/docs/screenshots/group.png" alt="Fairshare group page with expenses, balances and suggested payments" width="100%">
-</a>
+### Selected work
 
-**[Fairshare](https://github.com/dehghanpur10/fairshare)**: split shared
-expenses and settle up with the fewest payments. A Go API on PostgreSQL, a
-React and TypeScript client, and AWS infrastructure in Terraform (ECS Fargate,
-RDS, CloudFront), deployed by GitHub Actions through OIDC.
+#### Engineering drawing collaboration platform
 
-- Money stays in integer cents end to end, and property-based tests cover the
-  splitting and settle-up algorithms
-- The database schema enforces group membership; errors follow RFC 9457
-- An OpenAPI contract generates the client's TypeScript types, and CI fails
-  if they drift
+A browser-based SaaS where architects, engineers and contractors combine large
+PDF drawings into one master workbench, share it by link and mark it up
+together from any device, with nothing to install.
 
-### More projects
+**Challenge:** the image processing engine was too slow at scale. I redesigned
+it around concurrent processing, optimised algorithms and low-level bit
+manipulation, and made it about **70% faster**.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [heroSpotProject](https://github.com/dehghanpur10/heroSpotProject) | Serverless REST API with Swagger docs, mocks and integration tests | Go, AWS Lambda, API Gateway, DynamoDB |
-| [go-challenge](https://github.com/dehghanpur10/go-challenge) | Serverless API with a repository layer, Swagger docs and CI | Go, AWS Lambda, GitHub Actions |
-| [AWS_challenge1](https://github.com/dehghanpur10/AWS_challenge1) | Lambda functions behind API Gateway, tested with mocked dependencies | Go, AWS Lambda, API Gateway |
-| [socialgram-api](https://github.com/dehghanpur10/socialgram-api) | REST API for a social app, documented with Swagger | Go, MySQL |
-| [chat_server](https://github.com/dehghanpur10/chat_server) / [chat_client](https://github.com/dehghanpur10/chat_client) | Real-time chat with a Node.js server and a Nuxt client | Node.js, Express, Socket.IO, MongoDB, Vue |
-| [landmark_detection](https://github.com/dehghanpur10/landmark_detection) | Recognizes famous landmarks in photos with deep learning | Python, TensorFlow, Keras, OpenCV |
+- Serverless microservices in Go (Gin) and Python on AWS Lambda and API Gateway,
+  with OpenAPI contracts and Cognito/Auth0 authentication with role-based access
+- React and TypeScript features for the drawing workbench
+- A Django OCR service that extracts document text into PostgreSQL so content
+  is indexed and searchable
+- A C# Autodesk Revit plugin that exports BIM models to PDF and syncs them with
+  the cloud platform automatically
+- Unit and integration tests with generated mocks, plus automated deployment and
+  infrastructure with Serverless Framework, Terraform and CI/CD pipelines
+
+`Go` `Python` `C#` `React` `TypeScript` `AWS Lambda` `API Gateway` `DynamoDB` `S3` `SQS` `SES` `Cognito` `PostgreSQL` `Terraform` `Docker`
+
+#### Workforce shift optimisation platform
+
+An AI decision platform for shift-based businesses that turns demand forecasts
+into automated, compliant staff rosters, piloted with a US coffee chain running
+more than 70,000 shifts a week.
+
+**Challenge:** turning forecasting models and data from many business systems
+into configurable, production-grade workflows.
+
+- Backend services that manage optimisation rules, process forecasting data and
+  orchestrate end-to-end optimisation runs on an architecture built for
+  high-volume scheduling calculations
+- Data pipelines that turn workforce data from multiple business systems into
+  consistent inputs for the forecasting and optimisation models
+- Close work with data scientists and optimisation engineers to bring their
+  algorithms into production
+- React and TypeScript configuration apps where business users set scheduling
+  rules, staffing constraints and forecast scenarios
+- Internal tools and third-party integrations that cut support and operations
+  effort significantly
+
+`Python` `React` `TypeScript` `REST APIs` `Data pipelines` `AI embeddings` `Retool` `Prismatic` `Bubble.io`
+
+#### Battery and energy trading optimisation platform
+
+Forecasting, trading optimisation and automated bidding for battery owners and
+portfolio managers in Australia's National Electricity Market, from sub-5 MW
+sites to utility scale.
+
+**Challenge:** processing high-volume, time-series market and telemetry data
+reliably enough to drive trading decisions.
+
+- Event-driven microservices on AWS for battery optimisation, forecasting
+  workflows and market data processing
+- Cloud pipelines that collect, validate and transform energy market and
+  battery telemetry data
+- Distributed services for time-series energy data that feed the optimisation
+  algorithms
+- APIs for forecasts, battery health metrics, optimisation recommendations and
+  trading insights, plus React apps for operators to configure assets and
+  review results
+
+`Python` `React` `AWS` `Microservices` `Event-driven architecture` `REST APIs` `Time-series data`
+
+#### Telegram gift marketplace
+
+A Telegram Mini App marketplace for buying, selling, sending and withdrawing
+Telegram collectible gifts.
+
+**Challenge:** one payment backend over two very different rails: TON wallet
+deposits and withdrawals through TonConnect, and Iranian Rial bank-card
+payments with identity verification.
+
+- APIs for marketplace search, filtering and cart checkout
+- Telegram Premium and Stars purchases, giveaways with paid tickets and live
+  leaderboards, referrals and admin moderation
+
+`Python` `Node.js` `React` `TypeScript` `TON` `Telegram Mini Apps`
+
+#### Health check-up app
+
+Turns medical analysis results into an interactive body map that patients can
+read at a glance.
+
+**Challenge:** making medical results understandable for non-experts. I
+modelled them as structured per-organ data, with scores, statuses and doctor
+notes across dated visits.
+
+- APIs for filterable, saveable health recommendations, user profiles and
+  appointment history
+
+`Python` `Node.js` `React`
+
+#### More projects
+
+- **Shared expense app.** Splits group costs four ways (equally, exact
+  amounts, percentages or shares) and settles everyone up with the fewest
+  payments. The challenge was getting money exactly right: all amounts are
+  integer cents, splits use the largest remainder method, and property-based
+  tests cover the algorithms. Go, PostgreSQL, React, TypeScript and Terraform
+  on AWS (ECS Fargate, RDS, CloudFront), with CI/CD in GitHub Actions.
+- **Serverless REST APIs on AWS.** Several Go services on Lambda, API Gateway
+  and DynamoDB, with Swagger documentation, mocked dependencies and integration
+  tests.
+- **Landmark recognition.** Identifies famous landmarks in photos with deep
+  learning, with tooling for annotating training data and detecting people in
+  images. Python, TensorFlow, Keras and OpenCV.
+- **Real-time chat.** Live messaging over WebSockets with a Node.js and Express
+  server, Socket.IO, MongoDB and a Nuxt (Vue) client.
+
+### Education
+
+M.Sc. and B.Sc. in Computer Engineering (Software), both with a 4.0/4.0 GPA.
 
 ### Get in touch
 
