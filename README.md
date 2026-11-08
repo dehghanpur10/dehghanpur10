@@ -48,7 +48,7 @@ secure APIs.
     <td><b>Languages</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,cs&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpy%2Cts%2Cjs%2Ccs&theme=dark">
         <img alt="Go, Python, TypeScript, JavaScript, C#" src="https://skillicons.dev/icons?i=go,py,ts,js,cs&theme=light">
       </picture>
     </td>
@@ -57,7 +57,7 @@ secure APIs.
     <td><b>Backend and data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,django,express,postgres,dynamodb,mongodb,mysql&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cdjango%2Cexpress%2Cpostgres%2Cdynamodb%2Cmongodb%2Cmysql&theme=dark">
         <img alt="Node.js, Django, Express, PostgreSQL, DynamoDB, MongoDB, MySQL" src="https://skillicons.dev/icons?i=nodejs,django,express,postgres,dynamodb,mongodb,mysql&theme=light">
       </picture>
     </td>
@@ -66,7 +66,7 @@ secure APIs.
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvue%2Cangular%2Ctailwind&theme=dark">
         <img alt="React, Next.js, Vue, Angular, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=light">
       </picture>
     </td>
@@ -75,7 +75,7 @@ secure APIs.
     <td><b>Cloud and DevOps</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,bitbucket,linux&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cterraform%2Cdocker%2Cgithubactions%2Cbitbucket%2Clinux&theme=dark">
         <img alt="AWS, Terraform, Docker, GitHub Actions, Bitbucket Pipelines, Linux" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,bitbucket,linux&theme=light">
       </picture>
     </td>
@@ -84,7 +84,7 @@ secure APIs.
     <td><b>Machine learning</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow%2Copencv&theme=dark">
         <img alt="TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light">
       </picture>
     </td>
