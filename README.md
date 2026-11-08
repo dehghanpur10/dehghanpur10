@@ -28,7 +28,7 @@ well tested and easy to change.
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js&theme=dark">
-        <img height="40" alt="Go, Python, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go,py,ts,js&theme=light">
+        <img alt="Go, Python, TypeScript, JavaScript" src="https://skillicons.dev/icons?i=go,py,ts,js&theme=light">
       </picture>
     </td>
   </tr>
@@ -37,7 +37,7 @@ well tested and easy to change.
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,dynamodb&theme=dark">
-        <img height="40" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB" src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,dynamodb&theme=light">
+        <img alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB" src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,dynamodb&theme=light">
       </picture>
     </td>
   </tr>
@@ -46,7 +46,7 @@ well tested and easy to change.
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nuxtjs,angular,tailwind,vite&theme=dark">
-        <img height="40" alt="React, Vue, Nuxt, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=react,vue,nuxtjs,angular,tailwind,vite&theme=light">
+        <img alt="React, Vue, Nuxt, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=react,vue,nuxtjs,angular,tailwind,vite&theme=light">
       </picture>
     </td>
   </tr>
@@ -55,7 +55,7 @@ well tested and easy to change.
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,firebase&theme=dark">
-        <img height="40" alt="AWS, Terraform, Docker, GitHub Actions, nginx, Linux, Firebase" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,firebase&theme=light">
+        <img alt="AWS, Terraform, Docker, GitHub Actions, nginx, Linux, Firebase" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,firebase&theme=light">
       </picture>
     </td>
   </tr>
@@ -64,7 +64,7 @@ well tested and easy to change.
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
-        <img height="40" alt="TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light">
+        <img alt="TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light">
       </picture>
     </td>
   </tr>
